@@ -11,4 +11,5 @@ Draw { }, Love Open Source
 6. Wait for our review and get merged within a week
 
 
-
+"Love Open Source"
+![](love_opensource.png)
