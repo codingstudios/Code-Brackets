@@ -10,6 +10,7 @@ Draw { }, Love Open Source
 5. Make a pull request
 6. Wait for our review and get merged within a week
 
+----
 
 "Love Open Source"
 
