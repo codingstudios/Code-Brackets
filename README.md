@@ -25,6 +25,6 @@ Draw { }, Love Open Source
 
 ![love-opensource@jhaayushofficial png](https://user-images.githubusercontent.com/115531575/196039408-ba287a63-ac72-4915-9039-d2d90fb66bd3.png)
 
-I Love Open Source
+"I Love Open Source"
 
 ![love-opensource@NeoPrint3D.png](love-opensource@NeoPrint3D.png)
