@@ -14,3 +14,12 @@ drawings.forEach((e) => {
     creations[`${author}`] = [e];
   }
 })
+
+for(i in creations){
+  html += `<h1>${i}</h1>`
+  creations[i].forEach((e) => {
+    html += `<img src="./${e}">`
+  })
+}
+
+fs.writeFileSync("./index.html", html);
