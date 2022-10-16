@@ -8,7 +8,9 @@ Draw { }, Love Open Source
 3. Upload your awesome creation (the file name should be like: `love-opensource@your_username.png`
 4. Add your creation in this file (readme)
 5. Make a pull request
-6. Wait for our review and get merged within a week, <sub>meanwhile you might want to consider to give this repository a star ❤️</sub>
+6. Wait for our review and get merged within a week
+
+> <sub>meanwhile you might want to consider to give this repository a star ❤️</sub>
 
 ----
 
