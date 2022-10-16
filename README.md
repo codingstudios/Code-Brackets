@@ -12,4 +12,4 @@ Draw { }, Love Open Source
 
 
 "Love Open Source"
-![](love_opensource.png)
+![](love-opensource.png)
