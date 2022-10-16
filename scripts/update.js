@@ -21,5 +21,5 @@ for(i in creations){
     html += `<img src="./${e}">`
   })
 }
-
+ 
 fs.writeFileSync("./index.html", html);
