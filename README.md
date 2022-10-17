@@ -32,4 +32,4 @@ Draw { }, Love Open Source
 
 "Smile Open Source"
 
-![](Smile Open Source@iamsurgee.png)
+![](Smile-Open-Source@iamsurgee.png)
