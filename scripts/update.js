@@ -16,7 +16,7 @@ drawings.forEach((e) => {
 })
 
 for(i in creations){
-  html += `<h1>${i}</h1>`
+  html += `<a href="https://github.com/${i}">${i}</a>`
   creations[i].forEach((e) => {
     html += `<img src="./${e}">`
   })
