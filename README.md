@@ -29,3 +29,7 @@ Draw { }, Love Open Source
 "I Love Open Source"
 
 ![love-opensource@NeoPrint3D.png](love-opensource@NeoPrint3D.png)
+
+"Smile Open Source"
+
+![](Smile Open Source@iamsurgee.png)
