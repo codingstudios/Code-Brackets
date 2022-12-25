@@ -16,7 +16,7 @@ Draw { }, Love Open Source
 
 <details>
   <summary>"Love Open Source"</summary>
-![](love-opensource@iamsurge.png)
+<img src="love-opensource@iamsurge.png">
 </details>
 
 "Open Source with Love"
