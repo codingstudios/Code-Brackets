@@ -19,18 +19,30 @@ Draw { }, Love Open Source
 <img src="love-opensource@iamsurge.png">
 </details>
 
+<details>
+  <summary>
 "Open Source with Love"
+  </summary>
+<img src="love-opensource@uwaisalqadri.png">
+  </details>
 
-![](love-opensource@uwaisalqadri.png)
-
+<details>
+  <summary>
 "Love OpenSource"
+  </summary>
+<img src="https://user-images.githubusercontent.com/115531575/196039408-ba287a63-ac72-4915-9039-d2d90fb66bd3.png">
+  </details>
 
-![love-opensource@jhaayushofficial png](https://user-images.githubusercontent.com/115531575/196039408-ba287a63-ac72-4915-9039-d2d90fb66bd3.png)
-
+<details>
+  <summary>
 "I Love Open Source"
+  </summary>
+<img src="love-opensource@NeoPrint3D.png">
+  </details>
 
-![love-opensource@NeoPrint3D.png](love-opensource@NeoPrint3D.png)
-
+<details>
+  <summary>
 "Smile Open Source"
-
-![](Smile-Open-Source@iamsurgee.png)
+  </summary>
+<img src="Smile-Open-Source@iamsurgee.png">
+  </details>
